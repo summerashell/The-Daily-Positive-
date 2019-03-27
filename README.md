@@ -4,4 +4,8 @@ This website is designed to inspire daily positive thoughts, in order to retrain
 
 This page allows users to sign up for daily positive inspiration through their email. 
 
-p.s. I'm so disappointed in myself. I KNOW I could have done 1000 times better and created a nicer webpage for this (and I will update in time) but I did not have enough time absorb information like I wanted to and to work on my webpage as much as I would have liked. Regardless, I did enjoy designing this page...even if it is extremely basic. 
+To load the webpage, open the index.html file
+
+The Navigation links are not broken, they just haven't been completed to open to a new page
+
+JavaScript function is located at the very bottom of the page. There is a hidden message that appears when you click the bright pink button
